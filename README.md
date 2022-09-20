@@ -31,7 +31,7 @@
 [Mahdi Heydari - مهدی حیدری]()   
 [Mohammad Amin Ahmadi - محمد امین احمدی](https://github.com/mmdaminah)   
 [Mohammad Lashkari - محمد لشکری](https://github.com/MohammadLashkari)   
-[Pouria Jomeyazdian - پوریا جمعه یزدیان]()   
+[Pooria Jomeyazdian - پوریا جمعه یزدیان]()   
 [Amir Shahrokh Monsef - امیر شاهرخ منصف]()   
 [Ali Keshavarz-Behzadi - علی کشاورز بهزادی](https://github.com/alibehzadi)  
 
