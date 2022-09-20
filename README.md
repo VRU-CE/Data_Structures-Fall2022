@@ -35,3 +35,10 @@
 [Amir Shahrokh Monsef - امیر شاهرخ منصف]()   
 [Ali Keshavarz-Behzadi - علی کشاورز بهزادی](https://github.com/alibehzadi)  
 
+
+ <br />
+<p align="center">
+  <h2 align="center"> Link of class: </h2>
+  
+<p h2 align="center">
+<a href="https://quera.org/course/add_to_course/course/11944">Quera</a>
